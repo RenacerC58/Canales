@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9zSmaBZL0bgOFPeOBkbyMiABLZJH5BOZrSeOEbje2TzUgWL1aEU1AMD9qZUavEOwCet10wzJpZ0kGqujQUb2myrRFhd5BgCiTGKZsGp5saK3zRCWTqfT3sE917ZTucBSY-T4RhOn5CsA/s1600/HEADER+990+JOEL+2015.png" group-title=".RD",La Prensa de Ahora (RD)
+#EXTINF:-1 tvg-logo="https://scontent-mia3-3.xx.fbcdn.net/v/t1.6435-9/121066079_2796382217307061_267862137762615822_n.jpg?stp=dst-jpg_tt6&cstp=mx1034x1034&ctp=s1034x1034&_nc_cat=107&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeG3tjJyb9xKRZai4lvTstofb-Zw1CIAhMpv5nDUIgCEytuwZklx5-m2JA_O2x42R3MIJj34dLBl2jjPDn0FOfdh&_nc_ohc=KNvgw9_99j0Q7kNvwHZqGJK&_nc_oc=AdpgYUAxKB3y0S9jW9Z69EeeOMhVScYFSzhOa_q5Us5LgIbpt2ASMqZbxlYRsgYlokJwvQsR4ncN090kW0JelRSA&_nc_zt=23&_nc_ht=scontent-mia3-3.xx&_nc_gid=sCzZcvV_ArfTDeCj6ombpw&_nc_ss=782a8&oh=00_AQSzNWh5voGaLeIdc7TObSc9I6221psYrpeDakyVVlvV0A&oe=6B09A7BC" group-title=".RD",La Prensa de Ahora (RD)
 https://vs20.live.opencaster.com/laprensadeahora_a4e98ace/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-xbm_Y9ihbLM/XZLZvVasegI/AAAAAAAAoMk/Rh5L_dQjKAYOe2N4pRN2AkQbxaansLtgACLcBGAsYHQ/s200/logoTeleantillas122x90.webp" group-title=".RD",Teleantillas (RD)
